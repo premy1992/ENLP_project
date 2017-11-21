@@ -26,7 +26,7 @@ pip install -U scikit-learn
 Wang2vec:
 https://github.com/nathanshartmann/portuguese_word_embeddings
 
-End with an example of getting some data out of the system or using it for a little demo
+
 
 ## Running the tests
 
