@@ -13,21 +13,18 @@ What things you need to install the software and how to install them
 3) Wang2vec  
 ```
 
-### Installing
+## Installing
 
 NLTK 
 ```
 sudo pip install -U nltk
 ```
-
 Scikit-learn
-
 ```
 pip install -U scikit-learn
 ``` 
-```
-The [Wang2vec](https://github.com/wlin12/wang2vec)
-```
+Wang2vec:
+https://github.com/nathanshartmann/portuguese_word_embeddings
 
 End with an example of getting some data out of the system or using it for a little demo
 
