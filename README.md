@@ -24,6 +24,7 @@ Scikit-learn
 pip install -U scikit-learn
 ``` 
 Wang2vec:
+
 https://github.com/nathanshartmann/portuguese_word_embeddings
 
 
